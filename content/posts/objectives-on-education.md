@@ -6,7 +6,7 @@ hero_image: "/content/images/wallhaven-p2oj5p_1600x900.png"
 ---
 ## Discuss the relation between teaching, learning, and assessment and the roles of instructional objectives in teaching, learning, and assessment. Why do we need instructional objectives? 
 
-Learning and teaching are essential process that are linked tightly together in respect of knowledge, values, skills, and behaviors. Teaching is about imprating knowledge whereas learning involves acquiring knowledge. Assessment on education mainly focuses evaluating or measuring the learning process and learning outcomes of students on teaching subject.
+Learning and teaching are essential process that are linked tightly together in respect of knowledge, values, skills, and behaviors. Teaching is about imparting knowledge whereas learning involves acquiring knowledge. Assessment on education mainly focuses evaluating or measuring the learning process and learning outcomes of students on teaching subject.
 
 Instructional objectives plays important role, when educator design their learning material, it guides both teacher and students on shared learning goals. Also instructional objectives clarifies the intended learning outcomes and it provides a base for both teaching and assessment. Instructional objectives also helpful when educator is evaluating students performance on a subject and it helps to assess students learning accomplishments. Teacher can easily make assessment based on instructional objects. Without the instructional objects, it isn't possible to accomplish a well-constructed lecture or courses, and also it isn't possible to make thoughtful assessments on subject. So it is highly important concept that should be implemented on education plans. 
 
