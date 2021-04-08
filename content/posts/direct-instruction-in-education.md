@@ -1,6 +1,6 @@
 ---
 title: "Direct Instruction In Programming Lectures"
-date: 2020-04-08T14:55:04+03:00
+date: 2021-04-08T14:55:04+03:00
 author: Semih Celek
 hero_image: "/content/images/vincent-burkhead-LhlxYMfnTF0-unsplash.jpg"
 ---
