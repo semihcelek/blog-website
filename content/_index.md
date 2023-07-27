@@ -1,8 +1,11 @@
 ---
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
+title: "Hi this my blog"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+categories: ["Post","Blog",]
+tags: ["post","lorem","ipsum"]
+#externalUrl: ""
+#showSummary: true
+date: 2022-09-04
+draft: false
 ---
+
